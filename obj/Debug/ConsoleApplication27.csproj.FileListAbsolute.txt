@@ -1,0 +1,6 @@
+c:\users\sudsen\documents\visual studio 2015\Projects\ConsoleApplication27\ConsoleApplication27\bin\Debug\ConsoleApplication27.exe.config
+c:\users\sudsen\documents\visual studio 2015\Projects\ConsoleApplication27\ConsoleApplication27\obj\Debug\ConsoleApplication27.csprojResolveAssemblyReference.cache
+c:\users\sudsen\documents\visual studio 2015\Projects\ConsoleApplication27\ConsoleApplication27\bin\Debug\ConsoleApplication27.exe
+c:\users\sudsen\documents\visual studio 2015\Projects\ConsoleApplication27\ConsoleApplication27\bin\Debug\ConsoleApplication27.pdb
+c:\users\sudsen\documents\visual studio 2015\Projects\ConsoleApplication27\ConsoleApplication27\obj\Debug\ConsoleApplication27.exe
+c:\users\sudsen\documents\visual studio 2015\Projects\ConsoleApplication27\ConsoleApplication27\obj\Debug\ConsoleApplication27.pdb
